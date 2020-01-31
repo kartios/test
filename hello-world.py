@@ -1,1 +1,1 @@
-print("i have coronavirus")
+print("ayy lmao")
